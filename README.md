@@ -14,12 +14,12 @@ I'm a Full Stack Developer with a focus on building scalable and efficient appli
 ---
 
 
+### My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kudastech&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kudastech&theme=radical)
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kudastech&theme=radical&langs_count=4" alt="Top Languages - Column 1" style="background-color: white; border-radius: 10px; padding: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kudastech&theme=radical&langs_count=4&layout=compact" alt="Top Languages - Column 2" style="background-color: white; border-radius: 10px; padding: 10px;"/>
-</div>
+
+### Most Used Languages:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudastech&theme=radical&langs_count=8)
 
 ---
 
