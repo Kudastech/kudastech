@@ -15,8 +15,7 @@ I'm a Full Stack Developer with a focus on building scalable and efficient appli
 
 
 ### My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kudastech&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kudastech&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kudastech&show_icons=true&hide_title=true&count_private=true&theme=radical&include_all_commits=true&hide=prs&custom_title=Kudafoke%20Isaiah%20Stats)
 
 ### Most Used Languages:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudastech&theme=radical&langs_count=8)
