@@ -1,28 +1,21 @@
-# 👋 Hi, I'm Kudafoke Isaiah 
+# Hi there 👋
 
-I'm a Full Stack Developer with a focus on building scalable and efficient applications using cutting-edge technologies.
-### Technologies I Use:
-- **PHP (Laravel)** 🟦
-- **Livewire** 🟦
-- **JavaScript** ⚡
-- **HTML** 🌐
-- **CSS** 🎨
-- **Tailwind CSS** 🎨
-- **MySQL** 📊
-- **React** ⚛️
+I'm **Kudafoke Isaiah**, a **Full Stack Developer** passionate about building scalable and efficient applications.
 
----
+<!--
+**bhimbho/bhimbho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-### My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kudastech&show_icons=true&hide_title=true&count_private=true&theme=radical&include_all_commits=true&hide=prs&custom_title=Kudafoke%20Isaiah%20Stats)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<a  href="http://github.com/kudastech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kudastech&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudastech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudastech&theme=radical&langs_count=8)
-
----
-
-### Connect with me:
-- [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Kudastech)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kudafoke-isaiah)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=internet-explorer&logoColor=white)](https://kudastech.com)
